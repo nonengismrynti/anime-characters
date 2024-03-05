@@ -11,7 +11,7 @@
 ### Program : IBM Advance AI
 
 ### Tech Stack:
-### Python
-### HTML
-### CSS
-### JavaScript
+### - Python
+### - HTML
+### - CSS
+### - JavaScript
