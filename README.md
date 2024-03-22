@@ -1,17 +1,17 @@
 
-# Creating anime characters using DCGANs and Keras
+# Creating anime characters using DCGANs and Keras 🥷🧛‍♀️
 
-### Author : Cognitive Class AI
+### Author : Cognitive Class AI 🤖
 
-### Mentee assignment from IBM Advance AI @Infinite Learning Course completion of Build a Creating anime characters using DCGANs and Keras
+### Mentee assignment from IBM Advance AI @Infinite Learning Course completion of Build a Creating anime characters using DCGANs and Keras. 🧛‍♀️🧜‍♀️🧟‍♀️
 
-### Mentee Info !!
+### Mentee Info !! 🔍
 
-### Name : Noneng Ismaryanti
-### Program : IBM Advance AI
+### Name : Noneng Ismaryanti 🌷✨
+### Program : IBM Advance AI 🤖🤖
 
-### Tech Stack:
-### - Python
+### 💻 Tech Stack:
+### - Python 🐍
 ### - HTML
 ### - CSS
 ### - JavaScript
